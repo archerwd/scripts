@@ -53,6 +53,7 @@ EOF
 ```
 ### 3.启动盘和创建文件系统过程中io分布
 分析了debian和win7系统启动过程中的io分布，以及创建ext4和xfs文件系统过程的io分布，结果如下：
+
 1）debian启动过程中的读写io分布
 ![Alt text](./io_count_statistics.debian.out.1M.jpg)
 
